@@ -35,14 +35,14 @@ Librosa
 Scikit-learn
 
 # Setup
-Clone this repository.
-Install the required dependencies using pip install -r requirements.txt.
-Download the Meta audio dataset using Torchaudio.
-Running the Model
-Preprocess the audio data to generate Mel spectrograms.
-Train the Self-Supervised Learning model.
-Fine-tune the model using Matching Networks for Few-Shot Learning.
-Evaluate the model's performance on new speech recognition tasks.
+1.Clone this repository.
+2.Install the required dependencies using pip install -r requirements.txt.
+3.Download the Meta audio dataset using Torchaudio.
+4.Running the Model
+5. the audio data to generate Mel spectrograms.
+6.Train the Self-Supervised Learning model.
+7.Fine-tune the model using Matching Networks for Few-Shot Learning.
+8.Evaluate the model's performance on new speech recognition tasks.
 
 # Results
 The model achieves competitive accuracy in multilingual speech recognition tasks, demonstrating its ability to generalize to new languages with minimal labeled data. This approach significantly reduces the need for extensive labeled datasets, making it highly scalable and adaptable.
