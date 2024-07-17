@@ -1,5 +1,5 @@
 # Multilingual-Speech-Recognition-using-Few-Shot-Learning-and-Self-Supervised-Learning
-This project is a partof my internship at IIIT-Bangalore uder the guidance of R.V.Subhramanium Sir
+This project is a part of my internship at IIIT-Bangalore uder the guidance of R.V.Subhramanium Sir
 
 # Introduction
 This project aims to develop a Foundation Model for End-to-End Automatic Speech Recognition (E2E ASR) using Few-Shot Learning and Self-Supervised Learning (SSL) frameworks. By leveraging the Meta audio dataset, we aim to create a robust and efficient multilingual speech recognition system that can adapt to new languages with minimal labeled data.
