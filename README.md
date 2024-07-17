@@ -44,7 +44,7 @@ Scikit-learn
 4.Running the Model
 
 5. the audio data to generate Mel spectrograms.
-6. 
+
 6.Train the Self-Supervised Learning model.
 
 7.Fine-tune the model using Matching Networks for Few-Shot Learning.
