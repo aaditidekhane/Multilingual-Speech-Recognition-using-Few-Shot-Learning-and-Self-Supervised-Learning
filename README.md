@@ -62,4 +62,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Acknowledgements
-This project was inspired by recent advancements in Self-Supervised Learning and Few-Shot Learning. Special thanks to the authors of the referenced papers and the open-source community for their valuable contributions.
+This project was inspired by recent advancements in Self-Supervised Learning and Few-Shot Learning. Special thanks to R.V Subhramanium (IIIT-B) the authors of the referenced papers and the open-source community for their valuable contributions.
