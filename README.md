@@ -29,9 +29,13 @@ The model's performance is evaluated by its accuracy in recognizing speech from 
 
 # Prerequisites
 Python 3.7 or higher
+
 PyTorch
+
 Torchaudio
+
 Librosa
+
 Scikit-learn
 
 # Setup
@@ -43,7 +47,7 @@ Scikit-learn
 
 4.Running the Model
 
-5. the audio data to generate Mel spectrograms.
+5.The audio data to generate Mel spectrograms.
 
 6.Train the Self-Supervised Learning model.
 
